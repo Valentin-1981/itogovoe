@@ -1,0 +1,16 @@
+<svg id="Telegram" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2aa1da;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Shape" class="cls-1" width="35" height="35" rx="2" ry="2"/>
+  <path id="Telegram-2" data-name="Telegram" class="cls-2" d="M1185.98,486.1a1,1,0,0,1-1.78.529c-1.09-.867-2.79-2.114-2.79-2.114s-1.23,2.166-1.45,2.388a0.682,0.682,0,0,1-1-.133,0.966,0.966,0,0,1-.03-0.1l0.68-3.452,4.92-4.833-6.71,3.829s-3.03-.906-3.48-1.083a0.7,0.7,0,0,1,.07-1.262c0.64-.326,11.93-4.638,12.31-4.749s1.38-.4,1.27.573S1186.09,485.566,1185.98,486.1Z" transform="translate(-1164 -464)"/>
+</svg>

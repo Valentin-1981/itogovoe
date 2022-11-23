@@ -1,0 +1,6 @@
+
+
+/* Start:/bitrix/templates/meb/components/bitrix/iblock.vote/element_rating/style.min.css?1599603142367*/
+div.star-active{cursor:pointer}div.star-voted,div.star-over{}div.star-empty{background:url(/bitrix/templates/meb/components/bitrix/iblock.vote/element_rating/images/stars.png) 0 -19px no-repeat;width:20px;height:20px;overflow:hidden}div.star-voted{background:url(/bitrix/templates/meb/components/bitrix/iblock.vote/element_rating/images/stars.png) 0 0 no-repeat;width:20px;height:20px;overflow:hidden}div.star-over{background:url(/bitrix/templates/meb/components/bitrix/iblock.vote/element_rating/images/stars.png) 0 0 no-repeat;width:20px;height:20px;overflow:hidden}
+/* End */
+/* /bitrix/templates/meb/components/bitrix/iblock.vote/element_rating/style.min.css?1599603142367 */
