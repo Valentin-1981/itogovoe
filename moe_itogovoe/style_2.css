@@ -1,0 +1,98 @@
+.card {
+    width: 250px;
+    height: 323px;
+    border: 1px solid rgba(92, 86, 86, 0.671);
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 255, .2);
+    float: left;
+    margin: 25px 15px;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(92, 86, 86, 0.918);
+    font-size: 16pt;
+    margin-top: 10px;
+}
+
+.image {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    border: 1px solid black;
+}
+
+.cena {
+    text-align: left;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14pt;
+    margin-top: 10px;
+    float: left;
+}
+
+.stoimost {
+    float: left;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    color: black;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.price {
+    width: 80%;
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: left;
+    /* border-radius: 15px; */
+    /* background-color: aquamarine; */
+}
+
+.container {
+    width: 100%;
+    margin-top: 15px;
+    background-color: aqua;
+    height: 46px;
+    border-radius: 0 0 5px 5px;
+}
+
+.row-content {
+    display: flex;
+    justify-content: center;
+}
+
+h2.head {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgba(226, 24, 199, 0.932);
+}
+
+.buy {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: block;
+    margin-top: 8px;
+    margin-left: 19px;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: rgba(226, 24, 199, 0.932);
+    background-color: yellow;
+    width: 36px;
+    /* position:relative; */
+}
+
+.pokupka {
+    width: 58%;
+    display: block;
+    margin: 2px auto;
+}
+
+/* *{
+    box-sizing: border-box;
+} */

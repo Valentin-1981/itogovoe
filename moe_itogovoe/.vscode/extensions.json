@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "simonsiefke.prettier-vscode",
+    "mtxr.sqltools-driver-pg",
+    "mtxr.sqltools-driver-mssql",
+    "mtxr.sqltools-driver-sqlite",
+    "koszti.snowflake-driver-for-sqltools",
+    "saposs.sap-hana-driver-for-sqltools",
+    "ms-vscode.sublime-keybindings",
+    "intersystems-community.sqltools-intersystems-driver",
+    "jake-coltman.hg",
+    "alefragnani.project-manager",
+    "mrcrowl.hg",
+    "natizyskunk.sftp",
+    "suntobright.vscode-sftp",
+    "kelvin.vscode-sshfs",
+    "johnstoncode.svn-scm",
+    "vscode-svn-hooks.svn-scm"
+  ]
+}
